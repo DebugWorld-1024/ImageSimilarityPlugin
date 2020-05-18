@@ -1,5 +1,5 @@
 # ImageSimilarityPlugin
-通过Python程序向ES集群写入100w条数据，要注意索引的mappings设置，feature是ES存储特性向量数据的字段，以base64形式存储。不同编程语言List & base64转换程序见StaySense/fast-cosine-similarity
+通过Python程序向ES集群写入100w条数据，要注意索引的mappings设置，feature是ES存储特性向量数据的字段，以base64形式存储。不同编程语言List & base64转换程序见[StaySense/fast-cosine-similarity](https://github.com/StaySense/fast-cosine-similarity)
 
 ```python
 import random
