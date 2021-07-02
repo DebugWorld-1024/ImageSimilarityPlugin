@@ -10,7 +10,7 @@
 
     <properties>
         <!-- 常量 -->
-        <elasticsearch.version>6.7.0</elasticsearch.version>
+        <elasticsearch.version>6.8.15</elasticsearch.version>
         <maven.compiler.target>1.8</maven.compiler.target>
         <elasticsearch.assembly.descriptor>src/main/assemblies/plugin.xml</elasticsearch.assembly.descriptor>
         <elasticsearch.plugin.name>ImageSimilarity</elasticsearch.plugin.name>
