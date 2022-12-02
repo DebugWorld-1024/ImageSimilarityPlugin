@@ -117,4 +117,3 @@ public class SimilarityPlugin extends Plugin implements ScriptPlugin {
         }
     }
 }
-
